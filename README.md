@@ -8,7 +8,7 @@
 
 ---
 
-**Tijori** (Hindi for a strongbox) keeps your family's Aadhaar, PAN, passport, driving licence, voter ID, marksheets and bank cards in one place, encrypted on your phone. Find Mom's PAN and copy the number in one tap, while you're on a call or filling a form.
+**Tijori** is an encrypted document vault. It keeps your family's Aadhaar, PAN, passport, driving licence, voter ID, marksheets and bank cards in one place, encrypted on your phone. Find Mom's PAN and copy the number in one tap, while you're on a call or filling a form.
 
 ## Download
 
