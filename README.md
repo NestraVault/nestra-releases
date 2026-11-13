@@ -12,7 +12,9 @@
 
 ## Download
 
-**[Download the latest Tijori APK](https://github.com/tijorivault/tijori-releases/releases/latest)** (Android 8 and newer).
+**[Download Tijori](https://tijorivault.github.io)**, with step-by-step install help (Android 8 and newer).
+
+Direct APK link: [Tijori.apk](https://github.com/tijorivault/tijori-releases/releases/latest/download/Tijori.apk)
 
 Once installed, Tijori checks here once a day and offers new versions itself. You can turn that off in Settings.
 
