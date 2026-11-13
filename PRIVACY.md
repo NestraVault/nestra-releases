@@ -1,6 +1,6 @@
 # Tijori privacy policy
 
-*Last updated: 14 November 2026*
+*Last updated: 13 November 2026*
 
 Tijori ("the app") is made by Tijori Vault. This policy explains what the app does with your information. The short version: your documents never leave your phone unless you send them somewhere yourself, and we never receive any of your data.
 
@@ -29,6 +29,10 @@ Only for updates:
 - **Downloading an update**, only when you tap Update. The download is checked against the published fingerprint before Android installs it.
 
 Reading the text on documents happens on your phone; nothing is uploaded to do it.
+
+## The download website
+
+The download page at tijorivault.github.io counts visits and download-button clicks with [GoatCounter](https://www.goatcounter.com), a privacy-friendly counter: no cookies, no personal data, and no tracking across sites. It records things like the page visited, the referring site and the country. This applies only to the website; **the app has no tracking.**
 
 ## When information leaves your phone because you chose to
 
