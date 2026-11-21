@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tijori-lockup.png" alt="Nestra" width="360">
+  <img src="assets/nestra-lockup.png" alt="Nestra" width="360">
 </p>
 
 <h3 align="center">Encrypted Document Vault</h3>
