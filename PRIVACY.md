@@ -1,8 +1,8 @@
-# Tijori privacy policy
+# Nestra privacy policy
 
-*Last updated: 13 November 2026*
+*Last updated: 15 November 2026*
 
-Tijori ("the app") is made by Tijori Vault. This policy explains what the app does with your information. The short version: your documents never leave your phone unless you send them somewhere yourself, and we never receive any of your data.
+This policy explains what Nestra ("the app") does with your information. The short version: your documents never leave your phone unless you send them somewhere yourself, and we never receive any of your data.
 
 ## What the app stores
 
@@ -25,20 +25,20 @@ We have no server and no copy of any of it. If you forget your Vault Password, w
 
 Only for updates:
 
-- **Automatic update check (on by default).** Once a day, when you open the app, it downloads a small public file from GitHub (`github.com/tijorivault/tijori-releases`) that says what the latest version is. Nothing about you or your data is sent; like any website, GitHub can see the IP address the request comes from. You can turn this off in **Settings → About → Check for updates automatically**.
-- **Downloading an update**, only when you tap Update. The download is checked against the published fingerprint before Android installs it.
+- **Automatic update check (on by default).** Once a day, when you open the app, it downloads a small public file from GitHub (`github.com/nestravault/nestra-releases`) that says what the latest version is. Nothing about you or your data is sent; like any website, GitHub can see the IP address the request comes from. You can turn this off in **Settings → About → Check for updates automatically**.
+- **Downloading an update**, only when you tap Update. The download is checked against the published fingerprint, and the app confirms it is Nestra and signed by the same developer key as the app you have, before Android installs it.
 
 Reading the text on documents happens on your phone; nothing is uploaded to do it.
 
 ## The download website
 
-The download page at tijorivault.github.io counts visits and download-button clicks with [GoatCounter](https://www.goatcounter.com), a privacy-friendly counter: no cookies, no personal data, and no tracking across sites. It records things like the page visited, the referring site and the country. This applies only to the website; **the app has no tracking.**
+The download page at nestravault.github.io counts visits and download-button clicks with [GoatCounter](https://www.goatcounter.com), a privacy-friendly counter: no cookies, no personal data, and no tracking across sites. It records things like the page visited, the referring site and the country. This applies only to the website; **the app has no tracking.**
 
 ## When information leaves your phone because you chose to
 
 - **Share.** When you share a document or card details, the app hands a copy to the app you pick (for example WhatsApp or Gmail). That copy is **not encrypted** and is handled by that app's own policy. The app warns you before sharing, and never includes a card's CVV.
 - **Copy.** Copied numbers go to Android's clipboard and are cleared after the time set in Settings (one minute by default).
-- **Backup export.** An export is one file encrypted with a password you choose. You decide where it goes (Google Drive, a USB drive, email). Without the password it can't be read.
+- **Backup export.** An export is one file encrypted with a password you choose. You decide where it goes (Google Drive, a USB drive, email). Without the password it can't be read, so the app refuses easy-to-guess separate backup passwords.
 
 ## Permissions
 
@@ -47,6 +47,10 @@ The download page at tijorivault.github.io counts visits and download-button cli
 - **Run after restart:** to set the reminders again after the phone restarts.
 - **Internet:** for the update check and downloads described above.
 - **Install apps:** asked only when you install an update the app downloaded.
+
+## How the encryption works
+
+Which algorithms are used, and what the app does not protect against, is described at nestravault.github.io/security.html.
 
 ## Children
 
@@ -58,4 +62,4 @@ If this policy changes, the new version will be published here with a new date, 
 
 ## Contact
 
-Open an issue at [github.com/tijorivault/tijori-releases/issues](https://github.com/tijorivault/tijori-releases/issues). Please never attach a photo of a real document.
+Open an issue at [github.com/nestravault/nestra-releases/issues](https://github.com/nestravault/nestra-releases/issues). Please never attach a photo of a real document.
